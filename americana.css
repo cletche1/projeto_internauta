@@ -1,0 +1,11 @@
+.nav-secundary {
+    overflow: scroll;
+}
+
+li.nav-item {
+    min-width: 140px;
+}
+
+/* .nav-secundary li{
+    min-width: 185px;
+} */ 
